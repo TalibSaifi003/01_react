@@ -1,0 +1,33 @@
+
+  .image-style {
+    width: 3em;
+  }
+  .text-name{
+    margin-top: 16px;
+  }
+  .skill-content{
+    margin: 2% 14%;
+  }
+  @media only screen and (max-width: 786px){
+
+     .skill-content{
+    margin: 2% 14px;
+  }
+  .card {
+    margin-bottom: 20px;
+  }
+  }
+  hr{
+    border: 0;
+    height: 1px!important;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    opacity: 1;
+  }
+  .focus {
+    transition: transform 0.3s;
+    margin-right: 10px;
+  }
+  
+  .focus:hover {
+    transform: scale(1.05);
+  }

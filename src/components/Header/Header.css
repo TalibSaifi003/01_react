@@ -1,0 +1,17 @@
+.nav-theme{
+    background-color: rgba(61, 185, 168, 0.6);
+}
+.navbar-expand-md .navbar-nav .nav-link{
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+    font-weight: 500;
+    color: black;
+    font-size: 20px;
+}
+.logo{
+    height: 8vh;
+
+}
+.navbar-top{
+    padding: 0px 23px;
+}

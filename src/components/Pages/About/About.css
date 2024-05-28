@@ -1,0 +1,17 @@
+.about-h{
+    font-size: 40px;
+    text-align: center;
+    width: 100%;
+    margin: 40px 0px;
+
+}
+.main{
+    margin: 3px 9%;
+}.content{
+border: 2px solid gray;
+    border-radius: 4%;
+    padding: 20px;
+}
+#about-us{
+    margin-bottom: 20px;
+}

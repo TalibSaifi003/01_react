@@ -1,0 +1,19 @@
+.blog-section, .blog-section-main{
+    
+    margin: 2% 20%;}
+@media only screen and (max-width: 786px){
+
+    .blog-section-main{
+        flex-flow: wrap;
+        margin: 0;
+    }
+    .blog-section {
+        margin: 2% 8%;
+    }}
+    .focus {
+        transition: transform 0.3s;
+      }
+      
+      .focus:hover {
+        transform: scale(1.05);
+      }
